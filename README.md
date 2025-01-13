@@ -5,9 +5,9 @@ A compiler implementation using Flex and Bison that supports a custom programmin
 ## Table of Contents
 
 - [Features](#features)
-- [Built-in Functions](#data-types)
+- [Built-in Functions](#built-in)
 - [Data-types](#data-types)
-- [Prerequisites](#data-types)
+- [Prerequisites](#prerequisites)
 - [Control Structures](#control-structures)
 - [Project Structure](#project-structure)
 - [Building and Running](#building-and-running)
@@ -95,6 +95,4 @@ The compiler provides detailed output including:
 - [Bison Manual](https://www.gnu.org/software/bison/manual/)
 - [Writing Compilers and Interpreters: A Software Engineering Approach](https://www.amazon.com/Writing-Compilers-Interpreters-Software-Engineering/dp/0470177071)
 
-```
 
-```
