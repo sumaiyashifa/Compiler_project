@@ -38,9 +38,9 @@ String Operations: strjoin (concatenation)
 
 ## Prerequisites
 
-Flex (Fast Lexical Analyzer)
-Bison (Parser Generator)
-GCC (GNU Compiler Collection)
+- Flex (Fast Lexical Analyzer)
+- Bison (Parser Generator)
+- GCC (GNU Compiler Collection)
 
 ## Control Structures
 
