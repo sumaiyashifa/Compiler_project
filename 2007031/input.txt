@@ -1,0 +1,117 @@
+#include <stdio.h>
+
+function Abc (INTEGER i, INTEGER j) {
+	i = 5;
+}
+
+INTEGER main() {
+	INTEGER a = 6;
+	INTEGER b = a;
+	INTEGER c = 7, d = 5;
+	FLOAT x = 7.5;
+	STRING y = "abc";
+	CHARACTER ch1 = 'A';
+	CHARACTER ch2 = 'B';
+	
+	
+	
+	STRING str1 = "Test123!@#";
+	STRING str2 = "World";
+	STRING str3 = "Programming";
+	print(str1);
+	print(str2);
+	print(str3);
+	
+	STRING result1 = strjoin(str1, str2);
+	print(result1);
+	
+	STRING result2 = strjoin(str1, "Test");
+	print(result2);
+	
+	STRING result3 = strjoin("Hello", "World");
+	print(result3);
+	
+	
+	c = 3;
+	b = 8;
+	a = b + c;
+	a = b - c;
+	a = b mod c;
+	a = b*c;
+	a = b/c;
+	a = b^c;
+	a = b great c;
+	a = b less c;
+	a = b equal c;
+	a = b not_eq c;
+	a = b less_eq c;
+	a = b great_eq c;
+	c = a++;
+	c = a--;
+	c = !a;
+	c = sin(b);
+	c = cos(b);
+	c = tan(b);
+	c = log(b);
+	c = ln(b);
+	isOddEven(b);
+	factorial(b);
+	a = max(b,c);
+	a = min(b,c);
+	isPrime(b);
+	Abc(b,c);
+	print(a);
+	
+	if(a equal b) {
+		print(a);
+		
+	}
+	else_if(a equal c) {
+		print(a);
+		
+	}
+	else {
+		print(a);
+		
+	}
+	
+	INTEGER l;
+	for(l=0, l less a, l inc 1) {
+		print(b);
+		
+	}
+	
+	while(l great b) {
+		print(c);
+		
+	}
+	
+	switch(a) {
+		case 8: {
+			print(a);
+			
+		}
+		default: {
+			print(b);
+			
+		}
+	}
+	
+	//single line comment
+	/*Multi
+	Line
+	Comment*/
+	// Testing type error cases
+	
+	a = x + b;    // Error: float + int
+	x = c * x;    // Error: int * float
+	a = x / c;    // Error: float / int
+	b = a mod x;  // Error: mod with float
+	x = b ^ x;    // Error: int ^ float
+	a = y + c;    // Error: string + int
+	
+	ch1 = 'C';
+	a = ch1 + ch2;
+	x = ch1 * 2.5;
+	print(ch1);
+}

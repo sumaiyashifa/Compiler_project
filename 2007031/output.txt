@@ -1,0 +1,318 @@
+
+Header File Found!
+
+New Function Declared With Name: Abc
+
+>> DECLARATION: Variable 'i' of type 'Int' has been declared
+
+Valid Function Parameter Declaration!
+
+>> DECLARATION: Variable 'j' of type 'Int' has been declared
+
+Valid Function Parameter Declaration!
+
+>> ASSIGNMENT: Integer variable 'i' = 5
+
+User Defined Function Ended!
+
+Main Function Declared!
+
+>> DECLARATION: Variable 'a' of type 'Int' has been declared
+
+>> ASSIGNMENT: Integer variable 'a' = 6
+
+Valid Syntax For Variable Declaration!
+
+>> DECLARATION: Variable 'b' of type 'Int' has been declared
+
+>> ASSIGNMENT: Integer variable 'b' = 6
+
+Valid Syntax For Variable Declaration!
+
+>> DECLARATION: Variable 'c' of type 'Int' has been declared
+
+>> ASSIGNMENT: Integer variable 'c' = 7
+
+>> DECLARATION: Variable 'd' of type 'Int' has been declared
+
+>> ASSIGNMENT: Integer variable 'd' = 5
+
+Valid Syntax For Variable Declaration!
+
+>> DECLARATION: Variable 'x' of type 'Float' has been declared
+
+>> ASSIGNMENT: Float variable 'x' = 7.500000
+
+Valid Syntax For Variable Declaration!
+
+>> DECLARATION: Variable 'y' of type 'String' has been declared
+
+>> ASSIGNMENT: String variable 'y' = "abc"
+
+Valid Syntax For Variable Declaration!
+
+>> DECLARATION: Variable 'ch1' of type 'Char' has been declared
+
+>> ASSIGNMENT: Character variable 'ch1' = A
+
+Valid Syntax For Variable Declaration!
+
+>> DECLARATION: Variable 'ch2' of type 'Char' has been declared
+
+>> ASSIGNMENT: Character variable 'ch2' = B
+
+Valid Syntax For Variable Declaration!
+
+>> DECLARATION: Variable 'str1' of type 'String' has been declared
+
+>> ASSIGNMENT: String variable 'str1' = "Test123!@#"
+
+Valid Syntax For Variable Declaration!
+
+>> DECLARATION: Variable 'str2' of type 'String' has been declared
+
+>> ASSIGNMENT: String variable 'str2' = "World"
+
+Valid Syntax For Variable Declaration!
+
+>> DECLARATION: Variable 'str3' of type 'String' has been declared
+
+>> ASSIGNMENT: String variable 'str3' = "Programming"
+
+Valid Syntax For Variable Declaration!
+
+Printing Value of the variable str1: "Test123!@#"
+
+Printing Value of the variable str2: "World"
+
+Printing Value of the variable str3: "Programming"
+
+Concatenated String: Test123!@#World
+
+>> DECLARATION: Variable 'result1' of type 'String' has been declared
+
+>> ASSIGNMENT: String variable 'result1' = Test123!@#World
+
+Valid Syntax For Variable Declaration!
+
+Printing Value of the variable result1: Test123!@#World
+
+Concatenated String: Test123!@#Test
+
+>> DECLARATION: Variable 'result2' of type 'String' has been declared
+
+>> ASSIGNMENT: String variable 'result2' = Test123!@#Test
+
+Valid Syntax For Variable Declaration!
+
+Printing Value of the variable result2: Test123!@#Test
+
+Concatenated String: HelloWorld
+
+>> DECLARATION: Variable 'result3' of type 'String' has been declared
+
+>> ASSIGNMENT: String variable 'result3' = HelloWorld
+
+Valid Syntax For Variable Declaration!
+
+Printing Value of the variable result3: HelloWorld
+
+>> ASSIGNMENT: Integer variable 'c' = 3
+
+>> ASSIGNMENT: Integer variable 'b' = 8
+
+Add Value: 11.000000
+
+>> ASSIGNMENT: Integer variable 'a' = 11
+
+Sub Value: 5.000000
+
+>> ASSIGNMENT: Integer variable 'a' = 5
+
+Remainder Value: 2
+
+>> ASSIGNMENT: Integer variable 'a' = 2
+
+Mul Value: 24.000000
+
+>> ASSIGNMENT: Integer variable 'a' = 24
+
+Div Value: 2.666667
+
+>> ASSIGNMENT: Integer variable 'a' = 2
+
+Power Value: 512.000000
+
+>> ASSIGNMENT: Integer variable 'a' = 512
+
+Greater Than Value: 1
+
+>> ASSIGNMENT: Integer variable 'a' = 1
+
+Less Than Value: 0
+
+Equal To Value: 0
+
+Not Eqaul To Value: 1
+
+>> ASSIGNMENT: Integer variable 'a' = 1
+
+Less Than or Equal To Value: 0
+
+Greater Than or Equal To Value: 1
+
+>> ASSIGNMENT: Integer variable 'a' = 1
+
+Value After Increment: 2
+
+>> ASSIGNMENT: Integer variable 'c' = 2
+
+Value After Decrement: 1
+
+>> ASSIGNMENT: Integer variable 'c' = 1
+
+Value After NOT Operation: 0
+
+Value of Sin(8.000000): 0.139173
+
+>> ASSIGNMENT: Integer variable 'c' = 0
+
+Value of Cos(8.000000): 0.990268
+
+>> ASSIGNMENT: Integer variable 'c' = 0
+
+Value of Tan(8.000000): 0.140541
+
+>> ASSIGNMENT: Integer variable 'c' = 0
+
+Value of Log(8.000000): 0.903090
+
+>> ASSIGNMENT: Integer variable 'c' = 0
+
+Value of Ln(8.000000): 2.079442
+
+>> ASSIGNMENT: Integer variable 'c' = 2
+
+8 is An Even Number
+
+Factorial of 8 is: 40320
+
+Max Number Between 8.000000 and 2.000000 is: 8.000000
+
+>> ASSIGNMENT: Integer variable 'a' = 8
+
+Min Number Between 8.000000 and 2.000000 is: 2.000000
+
+>> ASSIGNMENT: Integer variable 'a' = 2
+
+8 is Not A Prime Number
+
+Abc Function is Called!
+
+b Passed as Parameter For Function!
+
+c Passed as Parameter For Function!
+
+Valid Function Call!
+
+Printing Value of the variable a: 2
+
+Equal To Value: 0
+
+If Block is Not Executed!
+
+Printing Value of the variable a: 2
+
+If Block is Successfully Handled!
+
+Equal To Value: 1
+
+Else If Block is Executed!
+
+Printing Value of the variable a: 2
+
+Else If Block is Successfully Handled!
+
+Else Block is Not Executed!
+
+Printing Value of the variable a: 2
+
+Else Block is Successfully Handled!
+
+>> DECLARATION: Variable 'l' of type 'Int' has been declared
+
+Valid Syntax For Variable Declaration!
+
+For Loop Started!
+
+Variable Correctly Assigned to Loop!
+
+Loop is of Increasing Manner!
+
+For Loop Variable Declaration is Correct!
+
+Printing Value of the variable b: 8
+
+For Loop Execution Finshed!
+
+While Loop Started!
+
+Variable Correctly Assigned to Loop!
+
+While Loop Variable Declaration is Correct!
+
+Printing Value of the variable c: 2
+
+While Loop Execution Finshed!
+
+Switch Case Started!
+
+Printing Value of the variable a: 2
+
+Switch Case No: 8 is Ignored!
+
+Printing Value of the variable b: 8
+
+Switch Default Case is Executed!
+
+Switch Execution Finshed!
+
+>> Single Line Comment Found
+
+>> Multi-line Comment Block Found
+
+>> Single Line Comment Found
+
+Type Error: Cannot add different types. Please use type conversion
+
+>> Single Line Comment Found
+
+Type Error: Cannot multiply different types. Please use type conversion
+
+>> Single Line Comment Found
+
+Type Error: Cannot divide different types. Please use type conversion
+
+>> Single Line Comment Found
+
+Type Error: Modulo operation not allowed with float type
+
+>> Single Line Comment Found
+
+Type Error: Cannot use power operation between different types. Please use type conversion
+
+>> Single Line Comment Found
+
+Type Error: Cannot perform addition with string type
+
+>> Single Line Comment Found
+
+>> ASSIGNMENT: Character variable 'ch1' = C
+
+Type Error: Cannot perform addition with char type
+
+Type Error: Cannot multiply different types. Please use type conversion
+
+Printing Value of the variable ch1: 'C'
+
+Program Successfully Ended!
